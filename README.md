@@ -1,5 +1,5 @@
 # Portfolio
-This is my latest GitHub Portfolio for the GitHub Pages Portfolio Assignment Submission that includes a landing page, contact page, project portfolio page with four project (PacMen Exercise, Eye Exercise and Real Time Bus Tracking Exercise) along with a Navigation Bar, short biography, youtube video as well as CSS style and Bootstrap CSS for extra credit.
+This is my latest GitHub Portfolio for the GitHub Pages Portfolio Assignment Submission that includes a landing page, contact page, project portfolio page with four projects (PacMen Exercise, Eye Exercise and Real Time Bus Tracking Exercise) along with a Navigation Bar, short biography, youtube video as well as CSS style and Bootstrap CSS for extra credit.
 
 **How to Run:** This is more of a Portfolio Assignment Submission but you can use the code as a starter code for building a portfolio page with three HTML pages and a Navigation Bar. Take a look at the code, she how you can use and even enhance it! 
 
