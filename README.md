@@ -1,3 +1,11 @@
+
+![GitHub Portfolio Assignment](https://github.com/kmatusze/GitHub-Portfolio-Assignment/assets/138835328/64897d7b-f4e4-4207-894d-cbaa963e9fdd)
+
+
+
+
+
+
 # Portfolio
 This is my latest GitHub Portfolio for the GitHub Pages Portfolio Assignment Submission that includes a landing page, contact page, project portfolio page with four projects (PacMen Exercise, Eye Exercise and Real Time Bus Tracking Exercise) along with a Navigation Bar, short biography, youtube video as well as CSS style and Bootstrap CSS for extra credit.
 
